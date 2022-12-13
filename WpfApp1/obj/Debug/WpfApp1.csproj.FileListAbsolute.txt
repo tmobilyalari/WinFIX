@@ -1,0 +1,16 @@
+E:\source\repos\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+E:\source\repos\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+E:\source\repos\WpfApp1\obj\Debug\App.g.cs
+E:\source\repos\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+E:\source\repos\WpfApp1\bin\Debug\WpfApp1.exe.config
+E:\source\repos\WpfApp1\bin\Debug\WpfApp1.exe
+E:\source\repos\WpfApp1\bin\Debug\WpfApp1.pdb
+E:\source\repos\WpfApp1\obj\Debug\MainWindow.g.cs
+E:\source\repos\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+E:\source\repos\WpfApp1\obj\Debug\MainWindow.baml
+E:\source\repos\WpfApp1\obj\Debug\WpfApp1.g.resources
+E:\source\repos\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+E:\source\repos\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+E:\source\repos\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+E:\source\repos\WpfApp1\obj\Debug\WpfApp1.exe
+E:\source\repos\WpfApp1\obj\Debug\WpfApp1.pdb
